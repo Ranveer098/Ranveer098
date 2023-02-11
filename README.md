@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ranveer not officially
 - 👀 I’m actually not funny. ...
-- 🌱 I’m currently learning python and web development
+- 🌱 I’m currently learning C++ and web development
 - 💞️ My next target will be learning JavaScript
 - 📫 How to reach me-justanengineer22@gmail.com
 
