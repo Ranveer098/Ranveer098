@@ -1,5 +1,23 @@
-<h1 align="center">Hi 👋, I'm Nageshwar</h1>
-<h3 align="center">Frontend Developer</h3>
+<h1 align="center">Hi 👋, I'm Nageshwar Prasad Yadav</h1>
+<h3 align="center">A passionate Data Analyst and Computer Science student from SRM University</h3>
+
+<p>
+  🌱 I’m currently learning <strong>advanced data visualization techniques and machine learning</strong> to enhance my data analysis skills.<br>
+  👨‍💻 All of my projects are available on <a href="https://github.com/Ranveer098">my GitHub</a>.<br>
+  💬 Ask me about <strong>Python, SQL, Data Visualization, and MLOps</strong>.<br>
+  📫 How to reach me: <strong>nageshwar.y195@gmail.com</strong><br>
+  📄 Know about my experiences from <a href="https://www.linkedin.com/in/nageshwar-yadav/">my LinkedIn profile</a>.<br>
+  ⚡ Fun fact: <strong>I love to apply data analysis to real-world problems and share insights with peers through interactive dashboards.</strong>
+</p>
+
+<h3 align="center">Languages and Tools:</h3>
+<p>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> </a>
+  <!-- Add additional icons and links as necessary -->
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranveer098&label=Profile%20views&color=0e75b6&style=flat" alt="ranveer098" /> </p>
 
